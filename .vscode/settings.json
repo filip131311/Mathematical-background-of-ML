@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "contourf",
+        "dropna",
         "iterrows",
         "meshgrid",
         "ndarray"
