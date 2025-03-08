@@ -1,8 +1,13 @@
 {
     "cSpell.words": [
+        "anlize",
         "contourf",
+        "dropna",
+        "edgecolor",
         "iterrows",
         "meshgrid",
-        "ndarray"
+        "ndarray",
+        "xlabel",
+        "ylabel"
     ]
 }
