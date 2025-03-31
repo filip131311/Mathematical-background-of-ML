@@ -5,6 +5,7 @@
         "dropna",
         "edgecolor",
         "iterrows",
+        "lambdify",
         "meshgrid",
         "ndarray",
         "xlabel",
